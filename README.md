@@ -14,4 +14,4 @@ Chaos Events: Crunch time, sudden deadlines, team member leaves
 
 AI Features: Real feedback, ShadowAudit perception, Highlight Reels
 
-Built for 24h hackathon – scales to production!
+
